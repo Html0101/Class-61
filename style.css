@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Square Peg', cursive;
+    font-weight: 500;
+}
+#app{
+    background-color: #49a6fc;
+}
+#game{
+    background-color: #54ff76;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#chatbot{
+    background-color: #d4ff54;
+}
